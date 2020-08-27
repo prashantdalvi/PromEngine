@@ -1,0 +1,54 @@
+{
+  "SkuIdPrice": [
+    {
+      "skuid": 1,
+      "sku": "A",
+      "unitprice": 50
+    },
+    {
+      "skuid": 2,
+      "sku": "B",
+      "unitprice": 30
+    },
+    {
+      "skuid": 3,
+      "sku": "C",
+      "unitprice": 20
+    },
+    {
+      "skuid": 4,
+      "sku": "D",
+      "unitprice": 15
+    }
+  ],
+  "ActivePromotion": [
+    {
+      "PromotionId": 1,
+      "ActivePromotions": "3 of As",
+      "unit": 3,
+      "Promotions": 130,
+      "SubPromotionID": 0
+    },
+    {
+      "PromotionId": 2,
+      "ActivePromotions": "2 of Bs",
+      "unit": 2,
+      "Promotions": 45,
+      "SubPromotionID": 0
+    },
+    {
+      "PromotionId": 3,
+      "ActivePromotions": "C",
+      "unit": 1,
+      "Promotions": 30,
+      "SubPromotionID": 4
+    },
+    {
+      "PromotionId": 4,
+      "ActivePromotions": "D",
+      "unit": 1,
+      "Promotions": 30,
+      "SubPromotionID": 3
+    }
+  ]
+}

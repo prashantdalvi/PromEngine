@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dK1SpfNAuZeElUfvIrw1LCceGu5ccHqcJx6dc31w7bbfvPNYi8WI9u1i5LsnnvvM7PVyAV+Kn+ID3rCSPEvrQ==",
+  "success": true,
+  "projectFilePath": "C:\\PromotionEngine\\PromotionEngine.Model\\PromotionEngine.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PraTeam\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PraTeam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\PraTeam\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
