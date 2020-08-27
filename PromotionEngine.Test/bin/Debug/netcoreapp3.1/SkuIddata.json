@@ -1,0 +1,13 @@
+[
+  {
+    "skuid": 3,
+    "sku": "C",
+    "unitprice": 0
+  }
+,{"skuid":4,"sku":"D","unitprice":30},
+{"skuid":3,"sku":"C","unitprice":20},
+{"skuid":3,"sku":"C","unitprice":20},
+{"skuid":2,"sku":"B","unitprice":30},
+{"skuid":2,"sku":"B","unitprice":120},
+{"skuid":1,"sku":"A","unitprice":130},
+{"skuid":1,"sku":"A","unitprice":230}]
